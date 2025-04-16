@@ -1,0 +1,14 @@
+Lembretes essenciais das aulas durante o PJ:
+_____________________________________________
+
+-> Aula 11 (Primeiro Programa em Kt)
+
+Sentencas < blocos < arquivos < pacotes < Módulos
+
+Packages: Pacotes, Têm a funcionalidade de organizar e setorizar outros documentos, files, etc
+ex: (Musicas Nacionais) -- (Blues, Jazz, Rap, etc..)
+
+
+Blocos: Igual ao Java, em Kotlin se delimita em blocos. utlizando Chaves{}
+Blocos Aninhados existem
+Mas nunca interseccionados.
