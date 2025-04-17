@@ -23,3 +23,11 @@ No dia dia de dev, você tem até um main de inicializacao do sistema, mas esse 
 
 Sem comentários obvios; Clean code!
 Código Limpo = Pouca Documentacao
+
+
+Interabilidade entre KOTLIN e JAVA é Fundamental.
+
+
+
+Prefira Usar constantes!
+Quanto mais constantes existir, menos Bug poderá existir no seu programa...
