@@ -12,3 +12,14 @@ ex: (Musicas Nacionais) -- (Blues, Jazz, Rap, etc..)
 Blocos: Igual ao Java, em Kotlin se delimita em blocos. utlizando Chaves{}
 Blocos Aninhados existem
 Mas nunca interseccionados.
+
+
+Aula 12 - Comentários.kt
+
+Para cada Exercicio haverá um método Main(Um arquivo executável necessita de um método main) **Para Exercicios Fictícios.
+No dia dia de dev, você tem até um main de inicializacao do sistema, mas esse arquivos são estruturados por classes e métodos que chamam um ao outro.
+
+
+
+Sem comentários obvios; Clean code!
+Código Limpo = Pouca Documentacao
