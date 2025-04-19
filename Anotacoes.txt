@@ -31,3 +31,6 @@ Interabilidade entre KOTLIN e JAVA é Fundamental.
 
 Prefira Usar constantes!
 Quanto mais constantes existir, menos Bug poderá existir no seu programa...
+
+
+Paradigma Funcional e Paradigma POO
