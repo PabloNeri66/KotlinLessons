@@ -34,3 +34,5 @@ Quanto mais constantes existir, menos Bug poderá existir no seu programa...
 
 
 Paradigma Funcional e Paradigma POO
+
+O kotlin te protege de pontoNull.
