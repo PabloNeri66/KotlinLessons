@@ -1,19 +1,19 @@
 package fundamentos.funcoes
 
 
-fun <E> filtrar(lista: List<E>, filtro: (E) -> Boolean): List<E> {
+fun <E> selecionar(lista: List<E>, filtro: (E) ->Boolean): List<E>{
     val listaFiltrada = ArrayList<E>()
-    for(e in lista) {
-        if(filtro(e)) {
-            listaFiltrada.add(e)
-        }
+    for(elemento in lista){
+        if(filtro(elemento))listaFiltrada.add(elemento)
     }
+    println(listaFiltrada)
     return listaFiltrada
 }
-fun comTresLetras(nome: String): Boolean {
+fun filtrar(nome: String): Boolean{
     return nome.length == 3
 }
-fun main(args: Array<String>) {
-    val nomes = listOf("Ana", "Pedro", "Bia", "Gui", "Rebeca")
-    println(filtrar(nomes, ::comTresLetras))
+
+fun main() {
+    val nome = arrayListOf("Maria", "José", "Luiz", "Eva", "let", "Jão", "Caique")
+    selecionar(nome, ::filtrar)
 }
