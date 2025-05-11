@@ -26,4 +26,11 @@ fun main() {
     porReferencia(carro2)
 
     println("$carro1 e $carro2")
+
+    var a = 1
+    var b = a
+    println(a === b)
+    b++
+    println(a === b)
+    println("$a, $b")
 }
